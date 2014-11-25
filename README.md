@@ -11,7 +11,9 @@ The following requirements are required, figure out how to install them yourself
 
 ## How to use
 
-Run `grunt jasmine` in project root and make sure all tests passes.
+1. Install npm stuff.
+2. Install the stuff in bower.json, head over to http://bower.io/ to not find out how to do that.
+3. Run `grunt jasmine` in project root and make sure all tests passes.
 
 ## Questions
 
